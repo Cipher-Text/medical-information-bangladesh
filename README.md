@@ -1,7 +1,7 @@
 # Medical Information Bangladesh
 
 
-![Project Logo](link/to/logo.png)
+![Project Logo](logo/Open Information.png)
 
 ## Overview
 
