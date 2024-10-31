@@ -149,3 +149,4 @@ id,acronym,name,bn_name,established_year,enroll,district_id,hospital_type,organi
 148,SCDC,Sylhet Central Dental College & General Hospital,সিলেট সেন্ট্রাল ডেন্টাল কলেজ এবং জেনারেল হাসপাতাল,2015,0,37,COLLEGE,PRIVATE,,,
 149,KEAMCDU,Khawja Eunus Ali Medical College Dental Unit,খাজা ইউনুস আলী মেডিকেল কলেজ ডেন্টাল ইউনিট,2015,50,47,COLLEGE,PRIVATE,,,
 150,NEMCDU,North East Medical College Dental Unit,নর্থ ইস্ট মেডিকেল কলেজ ডেন্টাল ইউনিট,2015,0,47,COLLEGE,PRIVATE,,,
+151,KMC,Khulna Medical College,খুলনা মেডিকেল কলেজ,1990,135,27,COLLEGE,GOVERNMENT,22.8285523,89.5383005,https://kmc.college.gov.bd/
